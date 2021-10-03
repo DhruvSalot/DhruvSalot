@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Salot</h1>
 <h3 align="center">Learning something new everyday⚡</h3>
 
-- 🔭 I’m currently working on improving my skills in Coding Competition [Using Python for now](https://github.com/DhruvSalot/MyPy)
+- 🔭 I’m currently working on improving my skills in [Coding Competition] using Python for now.(https://github.com/DhruvSalot/MyPy)
 
 - 🌱 I’m currently learning **C++ and Python**
 
